@@ -1,7 +1,6 @@
 # YGOPro-2020
 Sakura's custom cards for ED0Pro
 
-# YGOPro4
 UPDATED: 4/7/2020
 
 Welcome to my YGOPro Github.
